@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.bread.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ClientPlayerInteractionManagerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"client": [
+		"HandledScreenMixin"
+	]
+}

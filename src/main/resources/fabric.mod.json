@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "book-savestate",
+	"version": "${version}",
+	"name": "book savestate",
+	"description": "savestate your inventory or chunks with cursed books",
+	"authors": [
+		"Bread"
+	],
+	"contact": {
+		"sources": "https://github.com/garlic-bred/book-savestate/"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/book-savestate/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.bread.BookSavestate"
+		]
+	},
+	"mixins": [
+		"book-savestate.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": ">=1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
