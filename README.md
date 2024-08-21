@@ -1,5 +1,5 @@
 # Book Savestate
-Works in versions 1.20.4 to 1.21\
+Works in versions 1.20.5 to 1.21\
 Patched in 24w34a\
 Patched on paper
 
