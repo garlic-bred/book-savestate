@@ -2,8 +2,10 @@
 [Video Demonstration](https://youtu.be/tD6eCmdbPp0)\
 \
 Works in versions 1.20.5 to 1.21.1\
-Patched in 24w34a\
+Patched in 24w33a (1.21.2 snapshot)\
 Patched on paper
+
+Credits to [Captain_S0L0](https://github.com/Captain-S0L0) for discovering the exploit
 
 ## Features
 Adds 3 client-side commands: `/dupe`, `/savestate`, and `/chunkban`
