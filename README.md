@@ -31,4 +31,4 @@ Instructions:
 1. Put a book and quill in your main hand.
 2. Build a chunk loader to load the chunk you want to ban.
 3. Run the `/chunkban` command while standing in the chunk you want to ban. You and all players around you will be kicked. Only your inventory will not be saved.
-4. This may cause a server crash
+4. This will cause a server crash when the server tries to save the chunk.
